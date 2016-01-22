@@ -1,2 +1,3 @@
-# typeface-tests
-Repo for typeface comparisons and testing
+# Typeface tests
+
+Repo for typeface comparisons and testing.
