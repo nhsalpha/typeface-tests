@@ -15,6 +15,7 @@ img {
 
 .test {
   max-width: 30em;
+  margin: 0 auto;
 }
 
 .test {
@@ -31,6 +32,12 @@ img {
 
 .myriad {
   font-family: "myriad-pro";
+  font-weight: 400;
+}
+.myriad h1,
+.myriad h2,
+.myriad h3 {
+  font-weight: 600;
 }
 
 h1 {
