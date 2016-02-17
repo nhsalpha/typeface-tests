@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'New Rail';
+  src: url('/assets/fonts/NewRailAlphabet-LightWEB.woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'New Rail';
+  src: url('/assets/fonts/NewRailAlphabet-MediumWEB.woff');
+  font-weight: 700;
+  font-style: bold;
+}
