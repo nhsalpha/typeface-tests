@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'FS Me';
+  src: url('/assets/fonts/FSMeWeb-Light.woff');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FS Me';
+  src: url('/assets/fonts/FSMeWeb-Regular.woff');
+  font-weight: 700;
+  font-style: bold;
+}
